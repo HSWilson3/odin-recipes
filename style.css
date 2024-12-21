@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+h1, h2 {
+    font-weight: bold;
+    color: darkred;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.ingredients, .ingredients li {
+    text-align: center;
+}
